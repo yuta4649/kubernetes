@@ -1,4 +1,4 @@
-# Kubenetes
+# Kubernetes
 
 ## 進捗
 Kubernetes完全ガイド <br>
